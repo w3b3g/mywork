@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scam websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (431):</h3>
+<h3>Scam websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (432):</h3>
 
 <br />
 
@@ -865,3 +865,5 @@ smarttmegssolution.pages.dev
 dappfixdex.netlify.app
 
 algorithmsprotocolchain.pages.dev
+
+webresolverprotocol.pages.dev
