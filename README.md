@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scam websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (432):</h3>
+<h3>Scam websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (433):</h3>
 
 <br />
 
@@ -562,8 +562,7 @@ dappsupportfix.netlify.app
 
 linktr.ee/walletauthentication
 
-forms.zohopublic.com/nodevalidate1/form/NodeSappValidation/formperma/Daod_yZ2P8r8O0W
-XEDklbaEbLvRWUJHSuGKQiKLHlyY
+forms.zohopublic.com/nodevalidate1/form/NodeSappValidation/formperma/Daod_yZ2P8r8O0WXEDklbaEbLvRWUJHSuGKQiKLHlyY
 
 optima-multibaseapp.pages.dev
 
@@ -867,3 +866,5 @@ dappfixdex.netlify.app
 algorithmsprotocolchain.pages.dev
 
 webresolverprotocol.pages.dev
+
+forms.zohopublic.com/noduity1/form/DappTetherSynchronization/formperma/JaC7pk3u8uaDoULh0QFSHsMokhzsN0lHxmjNxC7HhaQ
