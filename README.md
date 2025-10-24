@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scam websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (434):</h3>
+<h3>Scam websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (435):</h3>
 
 <br />
 
@@ -575,6 +575,7 @@ tinyurl.com/Bonk-bot-dapp
 connect-chain-defi.web.app
 
 webz3mark.pages.dev
+
 blockchainresolver.web.app
 
 the-launchpads.web.app
@@ -870,3 +871,5 @@ webresolverprotocol.pages.dev
 forms.zohopublic.com/noduity1/form/DappTetherSynchronization/formperma/JaC7pk3u8uaDoULh0QFSHsMokhzsN0lHxmjNxC7HhaQ
 
 fairr.pages.dev
+
+defichainprotocols.pages.dev
