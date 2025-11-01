@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (435):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (436):</h3>
 
 <br />
 
@@ -873,6 +873,8 @@ forms.zohopublic.com/noduity1/form/DappTetherSynchronization/formperma/JaC7pk3u8
 fairr.pages.dev
 
 defichainprotocols.pages.dev
+
+algorithmsprotocoll.pages.dev
 
 <br />
 
