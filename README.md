@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (438):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (439):</h3>
 
 <br />
 
@@ -880,6 +880,8 @@ algorithmsprotocoll.pages.dev
 
 dappchain-cst.pages.dev
 
+finalyxprotocol.pages.dev
+
 <br />
 
 <hr />
@@ -1243,6 +1245,7 @@ dappchain-cst.pages.dev
 @SafeguardTTRobot
 
 @insyderwhalememeinfo
+
 @Bonk727_bot
 
 @Furiouss_bonkbot
