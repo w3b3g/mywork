@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (442):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (443):</h3>
 
 <br />
 
@@ -887,6 +887,8 @@ holders-rewards-production.up.railway.app
 transisi.pages.dev
 
 synthdefiresolve.pages.dev
+
+web3dappz.vercel.app
 
 <br />
 
