@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (446):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (447):</h3>
 
 <br />
 
@@ -895,6 +895,8 @@ blockresolvers.pages.dev
 defifix-c4r.pages.dev
 
 decentraldrops.pages.dev
+
+dappresolutio.pages.dev
 
 <br />
 
