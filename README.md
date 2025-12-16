@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (449):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (451):</h3>
 
 <br />
 
@@ -901,6 +901,10 @@ dappresolutio.pages.dev
 blockquerychain.pages.dev
 
 fixdappmainnet.netlify.app
+
+onchainrezolvr.pages.dev
+
+rectification-dapps.netlify.app
 
 <br />
 
