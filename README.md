@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (457):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (458):</h3>
 
 <br />
 
@@ -917,6 +917,8 @@ descentralizes.vercel.app
 blastsync.vercel.app
 
 sol-claims.vercel.app
+
+resolutionbugs.pages.dev
 
 <br />
 
