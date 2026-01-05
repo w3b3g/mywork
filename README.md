@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (459):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (460):</h3>
 
 <br />
 
@@ -921,6 +921,8 @@ sol-claims.vercel.app
 resolutionbugs.pages.dev
 
 dapresolution.pages.dev
+
+blockdexreset.pages.dev
 
 <br />
 
