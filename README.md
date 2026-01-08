@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (463):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (465):</h3>
 
 <br />
 
@@ -929,6 +929,10 @@ coinsoltempi.pages.dev
 palotaodaniel001.wixsite.com
 
 apps.trenmarklest.pro
+
+dappfixmainnet1.netlify.app
+
+livedappmaintenances.pages.dev
 
 <br />
 
