@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (466):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (467):</h3>
 
 <br />
 
@@ -935,6 +935,8 @@ dappfixmainnet1.netlify.app
 livedappmaintenances.pages.dev
 
 coinethltemp.pages.dev
+
+zapperin.pages.dev
 
 <br />
 
