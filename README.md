@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (468):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (469):</h3>
 
 <br />
 
@@ -939,6 +939,8 @@ coinethltemp.pages.dev
 zapperin.pages.dev
 
 securdapblocks.pages.dev
+
+coinsoltempv.pages.dev
 
 <br />
 
