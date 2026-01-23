@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (474):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (477):</h3>
 
 <br />
 
@@ -951,6 +951,12 @@ sweet-support.netlify.app
 maccchain.pages.dev
 
 protocolmainc.pages.dev
+
+dapplivenet.vercel.app
+
+rectificationnode-chi.vercel.app
+
+synchfixaccount.vercel.app
 
 <br />
 
