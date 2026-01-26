@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (477):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (478):</h3>
 
 <br />
 
@@ -957,6 +957,8 @@ dapplivenet.vercel.app
 rectificationnode-chi.vercel.app
 
 synchfixaccount.vercel.app
+
+v0-web3validationdecentralizeapp.vercel.app
 
 <br />
 
