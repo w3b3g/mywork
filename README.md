@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (482):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (483):</h3>
 
 <br />
 
@@ -967,6 +967,8 @@ smartmeggsolution.pages.dev
 algorithmrezolvr.netlify.app
 
 multiappfix.pages.dev
+
+luxury-support.netlify.app
 
 <br />
 
