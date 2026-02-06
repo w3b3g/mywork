@@ -1,6 +1,6 @@
 # My work
 
-<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (483):</h3>
+<h3>Scammers' websites, forms, link pages, live chats, and etc. I have taken down since May 2024 (484):</h3>
 
 <br />
 
@@ -969,6 +969,8 @@ algorithmrezolvr.netlify.app
 multiappfix.pages.dev
 
 luxury-support.netlify.app
+
+algorithmsrectify.pages.dev
 
 <br />
 
